@@ -22,8 +22,8 @@ The player competes against the computer, which makes a random choice each round
 
 # How to run the game
 1. Clone the repository: in terminal
-    git clone https://github.com/your-username/rock-paper-scissors.git
+    * git clone https://github.com/your-username/rock-paper-scissors.git
 2. cd rock-paper-scissors
 3. Run the game
-    python project.py 
+    * python3 project.py 
 
